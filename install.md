@@ -1,6 +1,6 @@
 
 
-# Instalación de MySql en Ubuntu 18.04 
+# Instalación de MySQL en Ubuntu 18.04 
 
 
 ----------
